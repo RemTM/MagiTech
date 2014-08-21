@@ -1,0 +1,39 @@
+Ideas:
+
+~ Weapons ~
+> Minigun (held)
++ Can fire almost any projectile, however due to high rate of fire will consume ammo at a crazy rate. Goodbye diamonds.
+> Stationary Gun/Turret/etc
++ Is built out of multiple parts, can be aimed freely, and can range from a simple cannon to a full blown railgun.
+> Liquid Cannon
++ Use almost any liquid you wish. Depending on which liquid is loaded into a special tank worn in the chestplate, the liquid cannon will produce different effects.
+> Throwing Knives
++ Can be made of different materials, and can also be enchanted, including a 'boomerang' like enchantment.
+
+
+~ Armour ~
+> Stabaliser (Leggings)
++ Has different tiers, may be equiped on other leggings from other mods.
++ Will prevent any knockback movement up to the tier's capabilities. Final tier will render you immovable for as long as the block you are on exists.
+
+~ Mod Mechanics ~
+> MagiTech
++ Uses an electrical power source and mystical magic energy in order to use almost all parts of the mod. While many basic items can be run using any ratio of one power source or the other, more advanced items/machines will require a certain ratio of electricity and magic in order to run efficiently. If the wrong ratio is provided, funny things may happen...
+> Dry Dock
++ Used to construct, maintain and upgrade airships. This is the only place an airship can be made, and the dry dock must be upgraded in order to work with larger airships.
+> Airship Portal
++ A special portal which works only with an airship and any players on it at the time of the portal activation. Similar to the dry dock where it needs to be upgraded to take larger airships, it will provide a list of valid portals the airship can teleport to. If a portal is not large enough for the airship, it will not appear on the list.
+> Multiple classes of sub-system cores for the airship
++ While the airship's heart is basically the main core, the sub systems will be considered as the parts of the airship. And while there is the standard class of sub-core, there is also specialised sub-cores for various functions, like a weapon sub-core, engine sub-core, shield sub-core, stealth sub-core, radar sub-core, etc.
+> Soul and MagiTech Crystals
++ Each player has a soul. These 'souls' are important in the use of many high-tier MagiTech items/machines on the magic side. While souls can also be found on other mobs, the purity of those souls is significantly 
+
+Tier 0:
+- No new worldgen, piggybacks on other mods if installed
+- Works best if there is at least one tech and one magic mod
+
+Tier 4:
+- chunk-based core-bound airship
+- built using dry dock that encompasses airship
+- upgrade main core and dry dock to build bigger airship
+- config option to control how many main airship cores a single player can own
